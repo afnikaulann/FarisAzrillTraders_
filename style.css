@@ -14,3 +14,12 @@
     border-color: white !important;
 }
 </style>
+padding-top:40px;
+padding-right:48px;
+padding-bottom:210px;
+padding-left:48px;
+
+background-image: url("img/bg.jpg"); /* disarankan rename dulu */
+background-size: cover;
+background-position: center top;
+background-repeat: no-repeat;
