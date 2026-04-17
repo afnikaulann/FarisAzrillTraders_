@@ -1,1 +1,16 @@
-/* Add styles here */
+<style>
+/* FIX BACKGROUND PUTIH */
+.RqXmQ, .bVaBrh, .eUcZqk, .kEAPMQ {
+    background: rgba(35, 16, 9, 1) !important;
+    color: white !important;
+}
+
+.RqXmQ *, .bVaBrh * {
+    color: white !important;
+}
+
+.iHiJNI, .eBRJZo {
+    color: white !important;
+    border-color: white !important;
+}
+</style>
