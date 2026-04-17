@@ -1,15 +1,15 @@
 <style>
-/* FIX BACKGROUND PUTIH */
+/* FIX SEMUA BACKGROUND PUTIH */
 .RqXmQ, .bVaBrh, .eUcZqk, .kEAPMQ {
-    background: rgba(35, 16, 9, 1) !important;
-    color: white !important;
+    background: rgb(0, 0, 0) !important; /* HITAM GELAP */
 }
 
 .RqXmQ *, .bVaBrh * {
-    color: white !important;
+    color: white !important; /* TEXT PUTIH */
 }
 
-.iHiJNI, .eBRJZo {
+/* FIX BUTTON DI POPUP */
+.iHiJNI {
     color: white !important;
     border-color: white !important;
 }
